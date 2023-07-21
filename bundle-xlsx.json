@@ -1,0 +1,8 @@
+{
+    "bundles": {
+        "bundle-xlsx": {
+            "name": "bundle-xlsx",
+            "bundle-file": "bundle-xlsx"
+        }
+    }
+}
