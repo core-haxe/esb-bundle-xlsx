@@ -2,7 +2,9 @@
     "bundles": {
         "bundle-xlsx": {
             "name": "bundle-xlsx",
-            "bundle-file": "bundle-xlsx"
+            "bundle-file": "bundle-xlsx",
+            "bundle-entry-point": "bundles.xlsx.Bundle",
+            "auto-load": true
         }
     }
 }
